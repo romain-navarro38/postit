@@ -1,0 +1,18 @@
+{
+    "travaux":{
+        "description":"Ne pas oublier de rappeler le couvreur pour les travaux",
+        "tags":["rappel", "maison"]
+    },
+    "idee article": {
+        "description":"Publier un article sur Docstring sur les listes.",
+        "tags":["rappel", "python"]
+    },
+    "voiture":{
+        "description": "Rappel pour controle technique",
+        "tags":["rappel", "voiture"]
+    },
+    "assurance":{
+        "description": "Mettre à jour l'assurance",
+        "tags":["rappel", "voiture"]
+    }
+}
